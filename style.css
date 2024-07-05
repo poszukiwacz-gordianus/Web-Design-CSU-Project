@@ -582,8 +582,8 @@ footer {
     .enroll a {
         width: 80px;
         margin-bottom: 20px;
-        font-size: 2rem;
-        padding: 0px 0px;
+        font-size: 1.2rem;
+        padding: 10px 25px;
         border: 2.5px solid #3D3028;
     }
 

@@ -663,9 +663,9 @@ footer {
     }
 
     .research-article p {
-        font-size: 1.3rem;
+        font-size: 1.2rem;
         padding: 0px;
-    margin: 20px;
+        margin: 20px;
     }
 
     .research-article h2, ul {
@@ -673,7 +673,7 @@ footer {
     }
 
     .research-article ul {
-        font-size: 1.3rem;
+        font-size: 1.2rem;
     }
 
     /* Enroll page */
